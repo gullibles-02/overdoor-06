@@ -1,10 +1,13 @@
 {
-  "name": "OBexSgxxAu5jFO2jt1JLr5XsPzX2TIwrAWAtc3sk4Z8ppdTia9",
+  "name": "หวย24 ดูที่ไหน - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.30",
   "description": "หวย24 หวยไทยรัฐ และ หวย24 Choke หวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขเด่นที่เข้า 3 ตัวตรง 526 หวย24 ในงวด 16562 ที่ผ่านมา เช่นเดียวกับหวยอาจารย์บัญชา 1662",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": ["หวย24","หวย24 Choke"],
+  "keywords": [
+    "หวย24",
+    "หวย24 Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
