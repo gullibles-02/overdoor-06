@@ -1,10 +1,18 @@
 {
-  "name": "I23U1Vdau7aDSANUrvNTblpIfoHz5EeVFgA1BspS6SeQspYf6u",
+  "name": "สถิติ อัง เส้ง ที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.52",
   "description": "สถิติ อัง เส้ง หวยลาว ทว่า สถิติ อัง เส้ง Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ และสำหรั",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": ["สถิติ อัง เส้ง","สถิติ","อัง","เส้ง","สถิติ Huay24","อัง Huay24","เส้ง Huay24"],
+  "keywords": [
+    "สถิติ อัง เส้ง",
+    "สถิติ",
+    "อัง",
+    "เส้ง",
+    "สถิติ Huay24",
+    "อัง Huay24",
+    "เส้ง Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
