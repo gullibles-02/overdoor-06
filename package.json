@@ -1,10 +1,13 @@
 {
-  "name": "HqF6xc1LdjJR4bUYsFOn6gFc6f7NTvM8siQBckCMITWR81MDEy",
+  "name": "ruamchoke สมัครยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "ruamchoke แจกฟรีไม่อั้นสำหรับ ด้วย ruamchoke Thailotto หวยออนไลน์ อันดับหนึ่ง แนวทางหวยมาเลย์ ประจำวันที่ 25965 ที่คัดสรรตัวเลขมาจากสูตรมาเลย์ พร้อมกับวิเค",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": ["RUAMCHOKE","RUAMCHOKE Thailotto"],
+  "keywords": [
+    "RUAMCHOKE",
+    "RUAMCHOKE Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
