@@ -1,13 +1,10 @@
 {
-  "name": "เว็บหวยฟ้า ทำไมถึงนิยม - เว็บใหม่ uwin789 2023 ล่าสุด",
+  "name": "PR1JmokXMp3s8OTFWzONtthp7TyAoZCjViVPPehCQshSRFTCEm",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เว็บหวยฟ้า สัพเพ ครั้น เว็บหวยฟ้า ที่ Uwin789 เว็บหวยออนไลน์ อันดับหนึ่ง สัตตา สัตว์ทั้งหลายที่เป็นเพื่อนทุกข์ เกิดแก่เจ็บตายด้วยกันทั้งหมดทั้งสิ้นอะเวราโห",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": [
-    "เว็บหวยฟ้า",
-    "เว็บหวยฟ้า Uwin789"
-  ],
+  "keywords": ["เว็บหวยฟ้า","เว็บหวยฟ้า Uwin789"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
