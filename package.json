@@ -1,16 +1,10 @@
 {
-  "name": "ถอดรหัส ยี่กี เลือกยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "4e6dVArVoyA6lZnMfSc5mCC7XEPW9FUfmJ9MOiT5WswqLejbCb",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "ถอดรหัส ยี่กี เดี๋ยวนี้ปฏิเสธไม่ได้เลย แต่ว่า ถอดรหัส ยี่กี Thailotto หวยออนไลน์ อันดับหนึ่ง ว่ามีสำนักที่ให้แนวทางหวย เกิดขึ้นมากมาย แข่งขันกันให้หวย ประช",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": [
-    "ถอดรหัส ยี่กี",
-    "ถอดรหัส",
-    "ยี่กี",
-    "ถอดรหัส Thailotto",
-    "ยี่กี Thailotto"
-  ],
+  "keywords": ["ถอดรหัส ยี่กี","ถอดรหัส","ยี่กี","ถอดรหัส Thailotto","ยี่กี Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
