@@ -1,10 +1,13 @@
 {
-  "name": "SzkeZk9L1Xl2DPqOkiR71PHsnMi9pfT1EMiovKqVwEqX70p7lI",
+  "name": "เว็บหวยลาวชุดเล็ก สมัครยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.23",
   "description": "เว็บหวยลาวชุดเล็ก หวยไทยรัฐ ของ เว็บหวยลาวชุดเล็ก 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด เว็บหวยลาวชุดเล็ก เป็นชุดเลขเด่น ผลงานดี ที่คอหวยติดตามกันมาทุกงว",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": ["เว็บหวยลาวชุดเล็ก","เว็บหวยลาวชุดเล็ก 999Lucky"],
+  "keywords": [
+    "เว็บหวยลาวชุดเล็ก",
+    "เว็บหวยลาวชุดเล็ก 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
