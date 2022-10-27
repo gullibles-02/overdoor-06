@@ -1,10 +1,18 @@
 {
-  "name": "BMXs7cFD634hYhJKq3eXk2EE2Y9BhUdPnxoBQn8L6AIZBCVz7F",
+  "name": "huay บาทละ 100 เล่นยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.36",
   "description": "Huay บาทละ 100 หวยฮานอยออกผลให้เราเล่นได้ทุกวันไม่มีวันหยุด Huay บาทละ 100 จนถึง Huay บาทละ 100 Thailotto หวยออนไลน์ อันดับหนึ่ง",
   "repository": "https://github.com/gullibles-02/overdoor-06",
-  "keywords": ["HUAY บาทละ 100","HUAY","บาทละ","100","HUAY Thailotto","บาทละ Thailotto","100 Thailotto"],
+  "keywords": [
+    "HUAY บาทละ 100",
+    "HUAY",
+    "บาทละ",
+    "100",
+    "HUAY Thailotto",
+    "บาทละ Thailotto",
+    "100 Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
